@@ -49,10 +49,6 @@ Example Plot (Python or MATLAB):
 
 [blue dots] = Real data
 [red line] = Fitted model
-
-yaml
-Copy
-Edit
 ---
 
 ## 🛠 Requirements
